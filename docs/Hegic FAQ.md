@@ -136,7 +136,7 @@ What are write tokens (writeWBTC and writeETH)?
 - Write tokens are LP tokens a liquidity provider will receive once the deposit ETH or wBTC into the Hegic liquidity pools.
 
 How do I stake liquidity?
-- Once liquidity is added to HEGIC pools you will need to stake it to start earning the HEGIC rewards. For information on how to do this please refer to the Gitbook for a detailed walkthrough (https://hegic.gitbook.io/start/) **We could add the guide I wrote to the Gitbook?**
+- Once liquidity is added to HEGIC pools you will need to stake it to start earning the HEGIC rewards. For information on how to do this please refer to the Gitbook for a detailed walkthrough (https://hegic.gitbook.io/start/) 
 
 How do I remove liquidity? 
 - To remove liquidity will take *up to 14 days* from the day you decide to do so! 
@@ -247,6 +247,7 @@ Most HEGIC statistics can be viewed on the analytics page: https://www.hegic.co/
 Where can I see how much liquidity (Total Value Locked, TVL) is in Hegic pools?
 -  [DeBank analytics](https://debank.com/projects/hegic)
 -  [DefiLlama](https://defillama.com/protocol/hegic)
+-  [Defi Pulse](https://defipulse.com/hegic) 
 
 ## DEFINITIONS
 
