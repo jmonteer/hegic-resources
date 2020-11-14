@@ -77,6 +77,11 @@ What is a call/put option?
 How do I buy call/put options?
 - Please refer to the Gitbook for a [detailed walkthrough](https://hegic.gitbook.io/start/guides/how-to-buy-a-call-option).
 
+How are options on Hegic priced?
+- put options pricing formula: premium = sqrt(period) * IV * strike / price.
+- call options pricing formula: premium = sqrt(period) * IV * price / strike.
+- Note: there is also a 1% fee (denominated in ETH/wBTC) on all options purchased through Hegic that is paid to Hegic staking lots.
+
 When is my option in profit?
 - A user will make a profit from option trading once the underlying asset's price exceeds the sum of the strike price plus the fee associated with purchasing the option.
 
