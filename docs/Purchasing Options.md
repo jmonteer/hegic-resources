@@ -31,12 +31,12 @@ Note: There are significant risks associated with providing liquidity to Hegic t
 
 ## Detailed walkthrough for purchasing options
 
-###You will need to have/acquire ETH in your wallet (Step 1)
+### You will need to have/acquire ETH in your wallet (Step 1)
 
 #### Obtaining Ether (ETH)
 There are numerous ways that you can obtain or ETH. The most common and popular method is to use local centralized exchanges and fiat on-ramps. For a pretty comprehensive list of available exchanges and markets check out [Coingecko](https://www.coingecko.com/en/coins/ethereum#markets).
 
-###Design your customized option (Step 2-7)
+### Design your customized option (Step 2-7)
 
 Open the [Hegic website](https://www.hegic.co/) and connect your wallet. Your wallet will need to be connected to interact with Hegic and purchase options through the webpage UI.
 
@@ -48,7 +48,7 @@ Scroll down to the section /// BUY AN OPTION CONTRACT IN ONE MINUTE and select t
 
 ![Select asset](https://i.imgur.com/OOasA2c.jpeg)
 
-####Select the option parameters
+#### Select the option parameters
 
 First: select the option type you wish to enter in:
 
@@ -65,7 +65,7 @@ The pricing of your option will be displayed in USD value as outlined in the yel
 
 ![Buying an option](https://i.imgur.com/6nxQuxl.jpeg)
 
-###Purchase the Option (Step 8-9)
+### Purchase the Option (Step 8-9)
 
 Observe the cost of the option denominated in ETH. All options are payabl in Ether regardless of the option's underlying asset. You must ensure that this amount of ETH is in you wallet in order for the transaction to process and for the option to be purchased.
 
@@ -77,13 +77,13 @@ Once you are happy with the option you have designed and the total cost, click t
 
 Once the transaction has been confirmed, you will have purchased an option on [Hegic](https://www.hegic.co/)!!
 
-###Monitor the performance of your option (Step 10)
+### Monitor the performance of your option (Step 10)
 
 There are two primary places you can obesrve the performance of your option.
 1. On the [Hegic](https://www.hegic.co/) HOLDERS tab you will see your option appear under the /// YOUR OPTIONS CONTRACTS section. Note: This may take a while to load. If if hasn't loaded within 3 minutes, you may need to refresh your browser. 
 2. On the [Analytics](https://www.hegic.co/analytics) page you will see your option appear under the /// LIQUIDITY POOLS section. Straight after you option purchase is confirmed, it should appear on the first page of the section.
 
-###Claim your option utilization reward(s)
+### Claim your option utilization reward(s)
 
 For the first three years of Hegic, options purchasers will receive utilization rewards for using the protocol as part of the [rHEGIC incentive program](https://medium.com/hegic/hegic-rewards-distribution-continues-how-to-earn-phase-i-rewards-with-lock-ups-29545bf43a44). The size of the rewards are in relation to the size and duration of the option purchased. 
 
