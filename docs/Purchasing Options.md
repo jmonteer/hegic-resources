@@ -13,14 +13,14 @@ Note: There are significant risks associated with providing liquidity to Hegic t
 ## High level process for purchasing options
 
 1. Whether you are buying ETH or WBTC options, you will need ETH in your wallet to pay premiums and fees.
-2. Navigate to the HOLDERS tab of the [Hegic webpage](https://www.hegic.co/)
+2. Navigate to the HOLDERS tab of the [Hegic webpage](https://www.hegic.co/).
 3. Select the underlying asset you would like to purchase the option in. Currently only Ether (ETH) and Wrapped Bitcoin (WBTC) are supported.
-4. Select the option type, put or call
-5. Choose the size of the option, denoted in the underlying asset
-6. Choose the strike price you wish to have
-7. Select the duration of the contract from one of the five options
-8. Preview the cost of the option denoted in ETH (i.e. the amount of ETH you much have in your wallet)
-9. Buy the option contract
+4. Select the option type, put or call.
+5. Choose the size of the option, denoted in the underlying asset.
+6. Choose the strike price you wish to have for the option.
+7. Select the duration of the contract from one of the five options.
+8. Preview the cost of the option denoted in ETH (i.e. the amount of ETH you much have in your wallet).
+9. Buy the option contract.
 10. Monitor performance of your option!
 11. [Bonus] - Claim your incentives for purchasing options through Hegic.
 
