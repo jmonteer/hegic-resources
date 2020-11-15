@@ -51,8 +51,8 @@ Scroll down to the section /// BUY AN OPTION CONTRACT IN ONE MINUTE and select t
 #### Select the option parameters
 
 1. Select the option type you wish to enter in:
-  1. A call: Reminder that a call represents the right, not obligation to purhcase an assets at a predefined price on or before expiration. 
-  1. A put: Reminder that a call represents the right, not obligation to sell an assets at a predefined price on or before expiration.
+   * A call: Reminder that a call represents the right, not obligation to purhcase an assets at a predefined price on or before expiration. 
+   * A put: Reminder that a call represents the right, not obligation to sell an assets at a predefined price on or before expiration.
 2. Choose the size of the option. This is denoted in units of the underlying asset (e.g. a 2 WBTC call will provide the user with exposure to the price movement of two Wrapped Bitcoin). The default value is set to 1 WBTC or 1 ETH.
 3. Select the strike price you wish for the option to have. The default strike value is set to current price of the underlying asset.
 4. Select the duration you wish for the option to have. Through Hegic, options can be purchased with 1 day, 1 week, 2 week, 3 week or 4 week durations.
@@ -92,10 +92,3 @@ Scroll down to the section /// CHOOSE THE INTERFACE THAT YOU WANT TO INTERACT WI
 ![Utilization Rewards](https://i.imgur.com/lLP6MPt.jpg)
 
 Below you will observe a section for you to claim your options utilization reward. Click the CLAIM button and your wallet will pop up requesting for your permission to confirm the transaction. Once confirmed, you will have received your rewards!
-
-
-
-
-
-
-
