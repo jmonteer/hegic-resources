@@ -8,7 +8,7 @@ On Hegic, options buyers have the flexibility to customize their options to suit
 
 This guide will walk you through the steps required to purchase options on [Hegic](https://www.hegic.co/).
 
-Note: There are significant risks associated with providing liquidity to Hegic that may or may not be offset/compensated by the premiums and/or the current rHEGIC incentive program. Please make sure to understatnd the LP risks prior to becoming an LP.
+Note: There are significant risks associated with providing liquidity to Hegic that may or may not be offset/compensated by the premiums and/or the current rHEGIC incentive program. Please make sure to understand the LP risks prior to becoming an LP.
 
 ## High level process for purchasing options
 
@@ -26,7 +26,7 @@ Note: There are significant risks associated with providing liquidity to Hegic t
 
 ## Important considerations before becoming a Hegic LP
 
-1. Options trading can provide many benefits to an investors or crypto trader's trading strategy or their portfolio risk management. Options can be highly appealing to investors as it allows for a number of strategies where-by investors can limit the risk of taking positions or the up front cost requirements. However, options have their own unique characterists that should be understood by traders before being used. It is highly recommended that traders learn about options before utilizing any decentralized or centralized options protocol.
+1. Options trading can provide many benefits to an investors or crypto trader's trading strategy or their portfolio risk management. Options can be highly appealing to investors as it allows for a number of strategies where-by investors can limit the risk of taking positions or the up front cost requirements. However, options have their own unique characteristics that should be understood by traders before being used. It is highly recommended that traders learn about options before utilizing any decentralized or centralized options protocol.
 2. Hegic is still in Beta and users should use the platform with caution. It is highly recommended that investors do their own research and understand the platform specific risks before trading.
 
 ## Detailed walkthrough for purchasing options
@@ -51,7 +51,7 @@ Scroll down to the section /// BUY AN OPTION CONTRACT IN ONE MINUTE and select t
 #### Select the option parameters
 
 1. Select the option type you wish to enter in:
-   * A call: Reminder that a call represents the right, not obligation to purhcase an assets at a predefined price on or before expiration. 
+   * A call: Reminder that a call represents the right, not obligation to purchase an assets at a predefined price on or before expiration. 
    * A put: Reminder that a call represents the right, not obligation to sell an assets at a predefined price on or before expiration.
 2. Choose the size of the option. This is denoted in units of the underlying asset (e.g. a 2 WBTC call will provide the user with exposure to the price movement of two Wrapped Bitcoin). The default value is set to 1 WBTC or 1 ETH.
 3. Select the strike price you wish for the option to have. The default strike value is set to current price of the underlying asset.
@@ -63,7 +63,7 @@ The pricing of your option will be displayed in USD value as outlined in the yel
 
 ### Purchase the Option (Step 8-9)
 
-Observe the cost of the option denominated in ETH. All options are payabl in Ether regardless of the option's underlying asset. You must ensure that this amount of ETH is in you wallet in order for the transaction to process and for the option to be purchased.
+Observe the cost of the option denominated in ETH. All options are payable in Ether regardless of the option's underlying asset. You must ensure that this amount of ETH is in you wallet in order for the transaction to process and for the option to be purchased.
 
 ![Check option cost](https://i.imgur.com/W22mVtz.jpg)
 
@@ -75,8 +75,8 @@ Once the transaction has been confirmed, you will have purchased an option on [H
 
 ### Monitor the performance of your option (Step 10)
 
-There are two primary places you can obesrve the performance of your option.
-1. On the [Hegic](https://www.hegic.co/) HOLDERS tab you will see your option appear under the /// YOUR OPTIONS CONTRACTS section. Note: This may take a while to load. If if hasn't loaded within 3 minutes, you may need to refresh your browser. 
+There are two primary places you can observe the performance of your option.
+1. On the [Hegic](https://www.hegic.co/) HOLDERS tab you will see your option appear under the /// YOUR OPTIONS CONTRACTS section. Note: This may take a while to load. If it hasn't loaded within 3 minutes, you may need to refresh your browser. 
 2. On the [Analytics](https://www.hegic.co/analytics) page you will see your option appear under the /// LIQUIDITY POOLS section. Straight after you option purchase is confirmed, it should appear on the first page of the section.
 
 ### Claim your option utilization reward(s)
