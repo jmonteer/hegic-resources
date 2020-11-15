@@ -50,16 +50,12 @@ Scroll down to the section /// BUY AN OPTION CONTRACT IN ONE MINUTE and select t
 
 #### Select the option parameters
 
-First: select the option type you wish to enter in:
-
-- A call: Reminder that a call represents the right, not obligation to purhcase an assets at a predefined price on or before expiration. 
-- A put: Reminder that a call represents the right, not obligation to sell an assets at a predefined price on or before expiration.
-
-Second: Choose the size of the option. This is denoted in units of the underlying asset (e.g. a 2 WBTC call will provide the user with exposure to the price movement of two Wrapped Bitcoin). The default value is set to 1 WBTC or 1 ETH.
-
-Third: Select the strike price you wish for the option to have. The default strike value is set to current price of the underlying asset.
-
-Fourth: Select the duration you wish for the option to have. Through Hegic, options can be purchased with 1 day, 1 week, 2 week, 3 week or 4 week durations.
+1. Select the option type you wish to enter in:
+  1. A call: Reminder that a call represents the right, not obligation to purhcase an assets at a predefined price on or before expiration. 
+  1. A put: Reminder that a call represents the right, not obligation to sell an assets at a predefined price on or before expiration.
+2. Choose the size of the option. This is denoted in units of the underlying asset (e.g. a 2 WBTC call will provide the user with exposure to the price movement of two Wrapped Bitcoin). The default value is set to 1 WBTC or 1 ETH.
+3. Select the strike price you wish for the option to have. The default strike value is set to current price of the underlying asset.
+4. Select the duration you wish for the option to have. Through Hegic, options can be purchased with 1 day, 1 week, 2 week, 3 week or 4 week durations.
 
 The pricing of your option will be displayed in USD value as outlined in the yellow box in the image below. You will also notice that the strike price and the break-even of the contract are displayed through the UI on the dynamic charting.
 
