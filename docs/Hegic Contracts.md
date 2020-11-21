@@ -69,4 +69,18 @@ Hegic can either be purchased through the Hegic bonding curve or on decentralize
 | [Uniswap](https://etherscan.io/address/0x1273ad5d8f3596a7a39efdb5a4b8f82e8f003fc3)       | 0x1273ad5d8f3596a7a39efdb5a4b8f82e8f003fc3 |                                                                                                                   |
 | [Sushiswap](https://etherscan.io/address/0x6463bd6026a2e7bfab5851b62969a92f7cca0eb6)     | 0x6463bd6026a2e7bfab5851b62969a92f7cca0eb6 |                                                                                                                   |
 
+### Third Party Staking Pool solutions
+
+Since a staking lot requires 888,000 HEGIC to acquire, several staking pool solutions have been created to cater to tokenholders without less than 888,000 HEGIC that wish to benefit from their share in protocol fees. 
+
+| Staking Pool Contracts                                                                    | Address                                    |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------ |
+| [hegicstaking](https://etherscan.io/address/0xf4128b00afda933428056d0f0d1d7652af7e2b35)   | 0xf4128b00afda933428056d0f0d1d7652af7e2b35 |
+| [zLOT](https://etherscan.io/address/0x9e4e091fc8921fe3575eab1c9a6446114f3b5ef2)           | 0x9e4e091fc8921fe3575eab1c9a6446114f3b5ef2 |
+
+
+| Staking Pool Tokens                                                                               | Address                                    |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| [sHEGIC, hegicstaking](https://etherscan.io/address/0xf4128b00afda933428056d0f0d1d7652af7e2b35)   | 0xf4128b00afda933428056d0f0d1d7652af7e2b35 |
+| [zHEGIC, zLOT](https://etherscan.io/address/0x837010619aeb2ae24141605afc8f66577f6fb2e7)           | 0x837010619aeb2ae24141605afc8f66577f6fb2e7 |
 
