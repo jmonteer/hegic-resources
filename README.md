@@ -1,4 +1,4 @@
-# Introduction to Hegic=dev
+# Introduction to Hegic-dev
 -------
 Hegic-dev is is a repository maintained by the Hegic community. The purpose of the repository is to create resources to ease development on Hegic Protocol and provide the community with guides on how to interact with the range of Hegic functions, tools and instruments.
 
@@ -25,19 +25,19 @@ And here is why you won't be able to distinguish Hegic from the pure magic:
 ## Developer Resources
 
 1. [Hegic Contract information](https://github.com/jmonteer/hegic-resources/blob/main/docs/Hegic%20Contracts.md)
-2. Hegic ABIs *coming soon*
-3. Hegic Analytic APIs *coming soon*
+2. Hegic ABIs *(coming soon)*
+3. Hegic Analytic APIs *(coming soon)*
 4. [Hegic Subgraph](https://github.com/ppunky/hegic-subgraph)
 
 ## Core Hegic Product User Guides
 
-| Product guides             |                                                                                                                                    |
-| -------------------------- |                                                                                                                                    |
-| Buying Options             | [How to buy put and call options](https://github.com/jmonteer/hegic-resources/blob/main/docs/Purchasing%20Options.md)              |
-| Exercising Options         | [Exercising your in the money options] *coming soon*                                                                               |
-| Selling Options            | [A guide to becoming an ETH/WBTC Liquidity Provider](https://github.com/jmonteer/hegic-resources/blob/main/docs/Becoming_an_LP.md) |
-| Leaving the Liquidity Pool | [How to withdraw from the Liquidity Pools] *coming soon*                                                                           |
-| HEGIC Staking              | [How to stake your Hegic to earn a share in Protocol Fees] *coming soon*                                                           |
+| How to                |  Product guides                                                                                                                    |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Buy Options           | [How to buy put and call options](https://github.com/jmonteer/hegic-resources/blob/main/docs/Purchasing%20Options.md)              |
+| Exercise Options      | [Exercising your in the money options] *(coming soon)*                                                                             |
+| Sell Options          | [A guide to becoming an ETH/WBTC Liquidity Provider](https://github.com/jmonteer/hegic-resources/blob/main/docs/Becoming_an_LP.md) |
+| Exit a Liquidity Pool | [How to withdraw from the Liquidity Pools] *(coming soon)*                                                                         |
+| Stake Hegic           | [How to stake your Hegic to earn a share in Protocol Fees] *(coming soon)*                                                         |
 
 ## Complimentary Hegic Products
 
