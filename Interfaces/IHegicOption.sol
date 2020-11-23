@@ -1,6 +1,6 @@
-pragma solidity 0.7.3;
+pragma solidity 0.6.12;
 
-interface IHegicOption {
+interface IHegicOptions {
     event Create(
         uint256 indexed id,
         address indexed account,
@@ -38,21 +38,6 @@ interface IHegicOption {
 
     function exercise(uint256 optionID) external;
 
-    function fees(
-        uint256 period,
-        uint256 amount,
-        uint256 strike,
-        OptionType optionType
-    )
-        public
-        view
-        returns (
-            uint256 total,
-            uint256 settlementFee,
-            uint256 strikeFee,
-            uint256 periodFee
-        );
-
     function options(uint) external view returns (
         State state,
         address payable holder,
@@ -64,6 +49,40 @@ interface IHegicOption {
         OptionType optionType
     );
 
-    function unlock(uint256 optionID) public;
-    
+    function unlock(uint256 optionID) external;
+}
+
+interface IHegicETHOptions is IHegicOptions {
+        function fees(
+        uint256 period,
+        uint256 amount,
+        uint256 strike,
+        OptionType optionType
+    )
+        external
+        view
+        returns (
+            uint256 total,
+            uint256 settlementFee,
+            uint256 strikeFee,
+            uint256 periodFee
+        );
+}
+
+interface IHegicERC20Options is IHegicOptions {
+    function fees(
+        uint256 period,
+        uint256 amount,
+        uint256 strike,
+        OptionType optionType
+    )
+        external
+        view
+        returns (
+            uint256 total,
+            uint256 totalETH,
+            uint256 settlementFee,
+            uint256 strikeFee,
+            uint256 periodFee
+        );
 }
