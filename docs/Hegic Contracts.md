@@ -14,6 +14,12 @@ There are two native tokens within the Hegic ecosystem. The Hegic token (HEGIC) 
 | [HEGIC](https://etherscan.io/token/0x584bC13c7D411c00c01A62e8019472dE68768430)    | 0x584bC13c7D411c00c01A62e8019472dE68768430 |
 | [rHEGIC](https://etherscan.io/token/0x47C0aD2aE6c0Ed4bcf7bc5b380D7205E89436e84)   | 0x47C0aD2aE6c0Ed4bcf7bc5b380D7205E89436e84 |
 
+A swap contract is available to convert rHEGIC tokens earned in Phase I of the incentive program into HEGIC. The converted HEGIC tokens are being unlocked gradually, with 100% becoming available to withdraw on 26 June 2021.
+
+| Contract                                                                        | Address                                    | Github |
+| ------------------------------------------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| [Swap](https://etherscan.io/address/0x1f533acf0c12d12997c49f4b64192030b6647c46) | 0x1F533aCf0C12D12997c49F4B64192030B6647c46 | [GradualTokenSwap.sol](https://github.com/hegic/GradualTokenSwap/blob/master/contracts/GradualTokenSwap.sol) |
+
 ### Liquidity Providers
 
 Liquidity providers deposit either wrapped Bitcoin (WBTC) or Ether (ETH) into Hegic liquidity pools and receive write tokens which represent their share in their respective pool. Wrapped tokens can then be staked in order to earn rHEGIC.
