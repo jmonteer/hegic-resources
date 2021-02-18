@@ -43,8 +43,8 @@ Liquidity providers deposit either wrapped Bitcoin (WBTC) or Ether (ETH) into He
 
 rHEGIC2 rewards for purchasing options.
 
-| Rewards Contract                                                                               | Address                                    |
-| -----------------------------------------------------------------------------------------------| ------------------------------------------ |
+| Rewards Contract                                                                                 | Address                                    |
+| -------------------------------------------------------------------------------------------------| ------------------------------------------ |
 | [ETH rewards contract](https://etherscan.io/address/0x7c83Ed5eeC3370CcC98FC43ce871c7416bD7B803)  | 0x7c83Ed5eeC3370CcC98FC43ce871c7416bD7B803 |
 
 ### Options contracts
