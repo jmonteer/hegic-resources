@@ -45,7 +45,7 @@ rHEGIC2 rewards for purchasing options.
 
 | Rewards Contract                                                                               | Address                                    |
 | -----------------------------------------------------------------------------------------------| ------------------------------------------ |
-| [ETH rewards contract](https://etherscan.io/token/0x7c83Ed5eeC3370CcC98FC43ce871c7416bD7B803)  | 0x7c83Ed5eeC3370CcC98FC43ce871c7416bD7B803 |
+| [ETH rewards contract](https://etherscan.io/address/0x7c83Ed5eeC3370CcC98FC43ce871c7416bD7B803)  | 0x7c83Ed5eeC3370CcC98FC43ce871c7416bD7B803 |
 
 ### Options contracts
 
