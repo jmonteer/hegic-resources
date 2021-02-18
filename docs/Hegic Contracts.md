@@ -39,6 +39,14 @@ Liquidity providers deposit either wrapped Bitcoin (WBTC) or Ether (ETH) into He
 | [ETH staking (Phase I)](https://etherscan.io/address/0x9b18975e64763bda591618cdf02d2f14a9875981)  | 0x9b18975e64763bda591618cdf02d2f14a9875981 | [HegicETHOptions.sol](https://github.com/hegic/contracts-v888/blob/master/contracts/Pool/HegicETHPool.sol)   |
 | [WBTC staking (Phase I)](https://etherscan.io/address/0x202ec7190f75046348de5ab3a97cc45d7b440680) | 0x202ec7190f75046348de5ab3a97cc45d7b440680 | [HegicWBTCOptions.sol](https://github.com/hegic/contracts-v888/blob/master/contracts/Pool/HegicWBTCPool.sol) |
 
+### Liquidity Utilization Rewards
+
+rHEGIC2 rewards for purchasing options.
+
+| Rewards Contract                                                                               | Address                                    |
+| -----------------------------------------------------------------------------------------------| ------------------------------------------ |
+| [ETH rewards contract](https://etherscan.io/token/0x7c83Ed5eeC3370CcC98FC43ce871c7416bD7B803)  | 0x7c83Ed5eeC3370CcC98FC43ce871c7416bD7B803 |
+
 ### Options contracts
 
 | Options Contract                                                                                 | Address                                    | Github                                                                                                               |
